@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on: RVC, a version control written in [Rust](https://github.com/rust-lang).
+- 🔭 I’m currently working on: [RVC](https://github.com/gluzandii/Rust-RVC), a version control written in [Rust](https://github.com/rust-lang).
 - 😄 Pronouns: He/Him
 
 <p align="center">
