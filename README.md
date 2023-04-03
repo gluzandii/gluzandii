@@ -25,7 +25,7 @@
 
 #
 
-<details>
+<!-- <details>
   <summary> More </summary>
   <br>
 
@@ -36,5 +36,5 @@
       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gluzandii&repo=Rust-RVC&theme=dark" />
     </a>
    </div>
-</details>
+</details> -->
 
