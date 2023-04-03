@@ -32,7 +32,7 @@
   
   <h2>Repos you should check out :P</h2>
   <div align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
+    <a href="https://github.com/gluzandii/Rust-RVC">
       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gluzandii&repo=Rust-RVC&theme=dark" />
     </a>
    </div>
