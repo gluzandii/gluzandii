@@ -2,7 +2,7 @@
 
 ## About me
 + ❤️ [Rust](https://github.com/rust-lang) ([Golang](https://github.com/golang) cool too :P)
-+ Working on [RVC](https://github.com/gluzandii/Rust-RVC) (a distrubuted version control system written in Rust)
++ Working on Gemini (a distrubuted version control system written in Rust)
 
 <br>
 
